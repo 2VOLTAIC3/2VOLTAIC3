@@ -1,8 +1,8 @@
 ### Hi there 👋
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://cdn141.picsart.com/332881106054211.png?to=crop&type=webp&r=200x200&q=85">
- <source media="(prefers-color-scheme: light)" srcset="https://cdn141.picsart.com/332881106054211.png?to=crop&type=webp&r=200x200&q=85">
- <img alt="Pain-Naruto's-chacarter-transparent-png" src="https://cdn141.picsart.com/332881106054211.png?to=crop&type=webp&r=200x200&q=85">
+ <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/564x/82/af/96/82af9610b68ad14cf5b7f73f5e9d492a.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/564x/82/af/96/82af9610b68ad14cf5b7f73f5e9d492a.jpg">
+ <img alt="Pain-Naruto's-chacarter-transparent-png" src="https://i.pinimg.com/564x/82/af/96/82af9610b68ad14cf5b7f73f5e9d492a.jpg">
 </picture>
 
 - 🔭 I’m currently working on the final project for my institution it's call "SendApp"...
