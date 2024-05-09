@@ -1,8 +1,8 @@
 ### Hi there 👋
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://cdn.shopify.com/s/files/1/0014/2491/6549/products/product-ABA01171H6-OB66_fc3696d1-ba84-4ced-85b5-4427bbc7c0af.png?v=1679648318">
- <source media="(prefers-color-scheme: light)" srcset="https://cdn.shopify.com/s/files/1/0014/2491/6549/products/product-ABA01171H6-OB66_fc3696d1-ba84-4ced-85b5-4427bbc7c0af.png?v=1679648318">
- <img alt="Pain-Naruto's-chacarter-transparent-png" src="https://cdn.shopify.com/s/files/1/0014/2491/6549/products/product-ABA01171H6-OB66_fc3696d1-ba84-4ced-85b5-4427bbc7c0af.png?v=1679648318">
+ <source media="(prefers-color-scheme: dark)" srcset="https://cdn.shopify.com/s/files/1/0594/5707/7305/products/F4798790-6BD1-4637-A4DB-9D4D0EF5CD88.gif?v=1651475585&width=533">
+ <source media="(prefers-color-scheme: light)" srcset="https://cdn.shopify.com/s/files/1/0594/5707/7305/products/F4798790-6BD1-4637-A4DB-9D4D0EF5CD88.gif?v=1651475585&width=533">
+ <img alt="Pain-Naruto's-chacarter-transparent-png" src="https://cdn.shopify.com/s/files/1/0594/5707/7305/products/F4798790-6BD1-4637-A4DB-9D4D0EF5CD88.gif?v=1651475585&width=533">
 </picture>
 
 - 🔭 I’m currently working on the final project for my institution it's call "SendApp"...
