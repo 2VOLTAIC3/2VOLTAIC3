@@ -1,5 +1,5 @@
 ### Hi there 👋
-<picture>
+<picture style="margin: 0 auto">
  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.shopify.com/s/files/1/0594/5707/7305/products/F4798790-6BD1-4637-A4DB-9D4D0EF5CD88.gif?v=1651475585&width=350">
  <source media="(prefers-color-scheme: light)" srcset="https://cdn.shopify.com/s/files/1/0594/5707/7305/products/F4798790-6BD1-4637-A4DB-9D4D0EF5CD88.gif?v=1651475585&width=350">
  <img alt="Pain-Naruto's-chacarter-transparent-png" src="https://cdn.shopify.com/s/files/1/0594/5707/7305/products/F4798790-6BD1-4637-A4DB-9D4D0EF5CD88.gif?v=1651475585&width=350">
