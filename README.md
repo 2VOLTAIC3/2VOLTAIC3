@@ -14,6 +14,11 @@
 I'm challenging myself to improve every day in this world of programming specially in the Web area.
 
 <details open>
+ <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/c0/15/69/c015697d18d0f242e331fff189a2842b.gif">
+ <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/originals/c0/15/69/c015697d18d0f242e331fff189a2842b.gif">
+ <img alt="Pain-Naruto's-chacarter-transparent-png" src="https://i.pinimg.com/originals/c0/15/69/c015697d18d0f242e331fff189a2842b.gif">
+</picture>
 <summary>My top languages</summary>
 
 | Rank | Languages |
@@ -23,8 +28,14 @@ I'm challenging myself to improve every day in this world of programming special
 |     3| JavaScript|
 
 </details>
-
 <details open>
+  <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/hwlmo8eXUPEAAAAi/levi-attack-on-titan.gif">
+ <source media="(prefers-color-scheme: light)" srcset="https://media.tenor.com/hwlmo8eXUPEAAAAi/levi-attack-on-titan.gif">
+ <img alt="Pain-Naruto's-chacarter-transparent-png" src="https://media.tenor.com/hwlmo8eXUPEAAAAi/levi-attack-on-titan.gif">
+</picture>
+<summary>My top languages</summary>
+
 <summary>My top Hobbies</summary>
 
 | Rank | Hobbies   |
