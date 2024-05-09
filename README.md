@@ -23,8 +23,6 @@ I'm challenging myself to improve every day in this world of programming special
 
 </details>
 <details open>
-<summary>My top languages</summary>
-
 <summary>My top Hobbies</summary>
 
 | Rank | Hobbies   |
